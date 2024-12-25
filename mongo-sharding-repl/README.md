@@ -2,7 +2,7 @@
 
 ## Как запустить
 
-Запускаем из директоии mongo-sharding
+Запускаем из директоии mongo-sharding-repl
 
 ```shell
 docker compose up -d
